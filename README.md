@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I am currently learning Django, Node.Js, Python, and JavaScript. I am a student at ALX-Africa and a Holberton University Partner.
+🌱 I am currently learning Django, Node.Js, Python, and JavaScript. I am a student at ALX-Africa[https://www.alxafrica.com/]; a Holberton University Partner. I am committed to learning fast and efficiently, working together with peers and teams, and finding pragmatic solutions for businesses and individuals. You need me in that super team!
 
 
 ## 🌐 Socials:
