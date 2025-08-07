@@ -16,6 +16,8 @@
 - 🧩 🧩 🧠 **Data Structures & Algorithms** – solving with Python, C, and JavaScript; prepping for interviews & mastery. I am not only learning, I want to understand their significance and applications in real world systems and to improve my systems thinking and problem solving.
 - I am polishing and perfecting my JavaScript and Typescript skills.
 
+I am also perfecting my skills in  `Docker` `PostgreSQL` `Redis` `Nginx` `GitHub Actions` `Linux` `Bash`
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/awwyno) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-awino-7803abbb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@erickawino) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@awwyoly) 
 
