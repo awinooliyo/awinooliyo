@@ -1,6 +1,20 @@
-# 💫 About Me:
-🌱 I am currently learning Django, Node.Js, Python, and JavaScript. I am a student at ALX-Africa[https://www.alxafrica.com/]; a Holberton University Partner. I am committed to learning fast and efficiently, working together with peers and teams, and finding pragmatic solutions for businesses and individuals. You need me in that super team!
-
+# 👋 Hey, I’m Erick Awino
+> 🛠 Building solid software that blends tradition with innovation.
+> 🤝 Open to collaborations in building systems that scale.
+### ⚡ Who I Am
+- **Full-Stack Engineer** with a backend bias but I try to blend well with Frontend. Throw anything at me and be sure I will learn, ace it, and ship it right!
+- Obsessed with **clarity, performance, and real-world functionality**
+- Respecter of the old ways (*hello, C*), chaser of the new (*FastAPI + Go*)
+- Believer in “Ship fast. Improve faster.”
+- I am trying to be good with REACT, Tailwind CSS, and VUE as well as Framer Motion for animation, styling, and UI.
+### 🧪 Currently Exploring
+- 🤝 **FastAPI** – mastering async routes, dependencies, and background tasks.
+- 🌊 **Go** – building high-performance microservices & CLI tools.
+- ☕ **Java** – diving into Spring Boot, strong typing, and enterprise patterns.
+- 🧩 **Vue 3** – Composition API + Pinia + real-time dashboards.
+- ⚙️ **Advanced DevOps** – CI/CD pipelines, observability, and container orchestration.
+- 🧩 🧩 🧠 **Data Structures & Algorithms** – solving with Python, C, and JavaScript; prepping for interviews & mastery. I am not only learning, I want to understand their significance and applications in real world systems and to improve my systems thinking and problem solving.
+- I am polishing and perfecting my JavaScript and Typescript skills.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/awwyno) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-awino-7803abbb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@erickawino) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@awwyoly) 
